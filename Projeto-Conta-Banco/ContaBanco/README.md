@@ -1,18 +1,27 @@
-## Getting Started
+# ContaTerminal 💰
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto consiste em um algoritmo Java simples que recebe dados via terminal, contendo características de uma conta bancária, e imprime uma mensagem compilando esses dados.
 
-## Folder Structure
+## 🎯 Objetivo
 
-The workspace contains two folders by default, where:
+O objetivo deste projeto é demonstrar o uso de conceitos básicos da linguagem Java, como entrada de dados pelo terminal, manipulação de strings e formatação de saída. Ele também serve como uma introdução prática ao desenvolvimento de aplicativos Java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Funcionalidades
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O algoritmo solicita ao usuário que insira seu nome completo, número da agência, número de ID e saldo da conta. Em seguida, compila esses dados e imprime uma mensagem de boas-vindas ao usuário, incluindo as informações fornecidas.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Utilização
 
-## Dependency Management
+Para utilizar o algoritmo, siga estas etapas:
+1. Clone o repositório para sua máquina local.
+2. Compile o arquivo `ContaTerminal.java`.
+3. Execute o arquivo compilado presente na pasta [bin](https://github.com/Guilherme-256/Projetos-curso-DIO/blob/main/Projeto-Conta-Banco/ContaBanco/bin).
+4. Siga as instruções exibidas no terminal para inserir os dados da conta.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 👨‍💻 Autor
+
+Este algoritmo foi desenvolvido por Guilherme Santos Silva.
+
+
+
+
