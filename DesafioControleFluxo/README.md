@@ -13,8 +13,8 @@ Este projeto em Java implementa um algoritmo simples para praticar os conceitos 
 Para executar o projeto, siga estas etapas:
 
 1. Clone o repositório do projeto.
-2. Navegue até o [diretório do projeto]().
-3. Execute o arquivo compilado.
+2. Navegue até o [diretório do projeto](https://github.com/Guilherme-256/Projetos-curso-DIO/tree/main/DesafioControleFluxo/bin).
+3. Faça download dos arquivos e execute o arquivo `Contador.class`.
 
 ## Tratamento de exceções ⚠️
 
