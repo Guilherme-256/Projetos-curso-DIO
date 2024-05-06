@@ -14,9 +14,8 @@ O algoritmo solicita ao usuário que insira seu nome completo, número da agênc
 
 Para utilizar o algoritmo, siga estas etapas:
 1. Clone o repositório para sua máquina local.
-2. Compile o arquivo `ContaTerminal.java`.
-3. Execute o arquivo compilado presente na pasta [bin](https://github.com/Guilherme-256/Projetos-curso-DIO/blob/main/Projeto-Conta-Banco/ContaBanco/bin).
-4. Siga as instruções exibidas no terminal para inserir os dados da conta.
+2. Faça download e execute o arquivo compilado presente na pasta [bin](https://github.com/Guilherme-256/Projetos-curso-DIO/blob/main/Projeto-Conta-Banco/ContaBanco/bin).
+3. Siga as instruções exibidas no terminal para inserir os dados da conta.
 
 ## 👨‍💻 Autor
 
