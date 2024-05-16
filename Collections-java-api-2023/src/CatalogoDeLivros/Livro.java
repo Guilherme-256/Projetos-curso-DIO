@@ -1,4 +1,4 @@
-package CatálogoDeLivros;
+package CatalogoDeLivros;
 
 public class Livro {
     // atributos
