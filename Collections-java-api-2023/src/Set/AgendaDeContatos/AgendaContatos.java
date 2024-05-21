@@ -40,7 +40,7 @@ for (Contato c : contatosSet) {
 } 
 return contatoAtualizado;
 }
-   
+// Teste do funcionamento das classes
 
 public static void main(String[] args) {
     AgendaContatos agendaContatos = new AgendaContatos();
