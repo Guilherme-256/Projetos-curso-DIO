@@ -2,7 +2,6 @@ package Map.AgendaDeEventos;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.EventObject;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
