@@ -26,6 +26,7 @@ produtoSet.add(new Produto(nome, cod, preco, quantidade));
         produtosPorPreco.addAll(produtoSet);
         return produtosPorPreco;
     }
+// Teste do funcionamento das classes
 
     public static void main(String[] args) {
         CadastroProdutos cadastroProdutos = new CadastroProdutos();
