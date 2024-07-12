@@ -1,11 +1,12 @@
-# [DIO](www.dio.me) - Trilha Java Básico
+# Descrição do desafio + Diagrama de Classe
+## [DIO](www.dio.me) - Trilha Java Básico
 
-## Autores
+### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
-## POO - Desafio
+### POO - Desafio
 
-### Modelagem e Diagramação de um Componente iPhone
+#### Modelagem e Diagramação de um Componente iPhone
 
 Neste desafio, você será responsável por modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
@@ -23,11 +24,11 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 3. **Navegador na Internet**
    - Métodos: `exibirPagina(String url)`, `adicionarNovaAba()`, `atualizarPagina()`
 
-### Objetivo
+#### Objetivo
 1. Criar um diagrama UML que represente as funcionalidades descritas acima.
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
-### Exemplo de Diagrama UML (Mermaid)
+## Exemplo de Diagrama UML (Mermaid)
 ```mermaid
 classDiagram
     class iPhone {
