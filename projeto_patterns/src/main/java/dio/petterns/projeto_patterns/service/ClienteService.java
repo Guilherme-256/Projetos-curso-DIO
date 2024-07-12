@@ -1,4 +1,4 @@
-package dio.petterns.projeto_patterns.service;
+package projeto_patterns.src.main.java.dio.petterns.projeto_patterns.service;
 
 import dio.petterns.projeto_patterns.model.Cliente;
 

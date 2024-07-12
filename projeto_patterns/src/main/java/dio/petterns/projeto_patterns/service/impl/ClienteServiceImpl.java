@@ -1,4 +1,4 @@
-package dio.petterns.projeto_patterns.service.impl;
+package projeto_patterns.src.main.java.dio.petterns.projeto_patterns.service.impl;
 
 import java.util.Optional;
 

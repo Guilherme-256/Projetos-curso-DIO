@@ -1,4 +1,4 @@
-package dio.petterns.projeto_patterns;
+package projeto_patterns.src.main.java.dio.petterns.projeto_patterns;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

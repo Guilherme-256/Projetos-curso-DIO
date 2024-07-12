@@ -1,4 +1,4 @@
-package dio.petterns.projeto_patterns;
+package projeto_patterns.src.test.java.dio.petterns.projeto_patterns;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

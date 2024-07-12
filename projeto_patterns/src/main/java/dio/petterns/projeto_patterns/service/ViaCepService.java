@@ -1,4 +1,4 @@
-package dio.petterns.projeto_patterns.service;
+package projeto_patterns.src.main.java.dio.petterns.projeto_patterns.service;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
