@@ -1,8 +1,10 @@
 # Descrição do desafio + Diagrama de Classe
 ## [DIO](www.dio.me) - Trilha Java Básico
 
-### Autores
+### Autor do desafio
 - [Gleyson Sampaio](https://github.com/glysns)
+### Autor do Projeto 
+- [Guilherme Santos Silva](https://github.com/Guilherme-256)
 
 ### POO - Desafio
 
@@ -28,7 +30,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 1. Criar um diagrama UML que represente as funcionalidades descritas acima.
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
-## Exemplo de Diagrama UML (Mermaid)
+## Diagrama UML (Mermaid)
 ```mermaid
 classDiagram
     class iPhone {
